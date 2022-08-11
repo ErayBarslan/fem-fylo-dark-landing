@@ -35,6 +35,5 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- SASS (scss syntax)
 - CSS Grid & Flexbox
 - Desktop first workflow
