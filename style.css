@@ -466,7 +466,7 @@ section {
 
 .footer-content {
     width: clamp(350px, 85vw, 1200px);
-    margin: 29px 0 0 0;
+    margin: 29px 0 71px 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
