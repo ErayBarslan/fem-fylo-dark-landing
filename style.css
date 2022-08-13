@@ -70,7 +70,7 @@ header {
 
 /* SECTION 1 */
 
-section {
+.section-one,.section-two,.section-three {
     display: grid;
     justify-content: center;
     width: 100vw;
