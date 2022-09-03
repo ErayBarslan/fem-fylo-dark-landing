@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ErayBarslan/frontend-fylo-dark-landing/](https://github.com/ErayBarslan/frontend-fylo-dark-landing/)
-- Live Site URL: [https://eraybarslan.github.io/frontend-fylo-dark-landing](https://eraybarslan.github.io/frontend-fylo-dark-landing/)
+- Solution URL: [https://github.com/ErayBarslan/fem-fylo-dark-landing/](https://github.com/ErayBarslan/fem-fylo-dark-landing/)
+- Live Site URL: [https://eraybarslan.github.io/fem-fylo-dark-landing/](https://eraybarslan.github.io/fem-fylo-dark-landing/)
 
 ### Screenshots
 
